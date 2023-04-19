@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/upload')
 
-WebUI.uploadFile(findTestObject('input_File Uploader_file'), 'E:\\tugas\\QA_Codingid\\data-info.xls')
+WebUI.uploadFile(findTestObject('input_File Uploader_file'), 'E:\\tugas\\QA_Codingid\\data-login.xls')
 
 WebUI.click(findTestObject('Object Repository/input_File Uploader_file-submit'))
-
-WebUI.closeBrowser()
 
