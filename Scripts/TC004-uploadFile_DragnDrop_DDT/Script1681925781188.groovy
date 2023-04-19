@@ -21,8 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/upload')
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('div_File Uploader_drag-drop-upload'), findTestData('newData-Upload').getValue(
-        1, 1))
+WebUI.uploadFileWithDragAndDrop(findTestObject('div_File Uploader_drag-drop-upload'), findTestData('data-upload').getValue(
+        2, 1))
 
 WebUI.click(findTestObject('Object Repository/input_File Uploader_file-submit'))
 

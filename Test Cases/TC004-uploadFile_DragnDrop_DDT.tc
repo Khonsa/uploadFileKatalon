@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f27dfc84-bccc-466f-be90-8a5bab832120</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5de8ad25-24c5-4232-adfc-4eb15a1462f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5de8ad25-24c5-4232-adfc-4eb15a1462f3</id>
+      <masked>false</masked>
+      <name>fileUpload</name>
+   </variable>
 </TestCaseEntity>
