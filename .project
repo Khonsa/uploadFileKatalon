@@ -35,6 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1681922792070</id>
 			<name></name>
 			<type>10</type>
@@ -45,6 +46,18 @@
 		</filter>
 		<filter>
 			<id>1681922792104</id>
+=======
+			<id>1681927660730</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1681927660762</id>
+>>>>>>> branch 'v1' of https://github.com/Khonsa/uploadFileKatalon.git
 			<name></name>
 			<type>6</type>
 			<matcher>
