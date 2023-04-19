@@ -5,14 +5,23 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c0344149-4a93-4458-b6fd-849fb64b60f0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>00de445c-010c-4126-af86-cd3c83d000b5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/data-upload</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>00de445c-010c-4126-af86-cd3c83d000b5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>URLDIR</value>
       <variableId>53b778c4-aca9-4a90-8903-f1f8e20d49c1</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>findTestData('data-upload').getValue(1, 1)</defaultValue>
       <description></description>
       <id>53b778c4-aca9-4a90-8903-f1f8e20d49c1</id>
       <masked>false</masked>

@@ -26,5 +26,11 @@
          <testDataId>Data Files/data-upload</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>53b778c4-aca9-4a90-8903-f1f8e20d49c1</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

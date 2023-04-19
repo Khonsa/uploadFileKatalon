@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>data-upload</name>
+   <name>data-upload2</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>0a894c77-9671-41e0-9a59-54aed3f8fd53</dataFileGUID>
+   <dataFileGUID>a38ee4ae-b4d0-41fb-aba0-7a3ee1646c96</dataFileGUID>
    <dataSourceUrl>E:\tugas\QA_Codingid\data-fileUpload2.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
-   <properties>
-      <entry>
-         <key>readAsString</key>
-         <value>true</value>
-      </entry>
-   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>
